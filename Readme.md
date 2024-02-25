@@ -32,3 +32,10 @@
 * remove password and refresh token field from response
 * check for user creation
 * return res
+
+
+* File Upload in Cloudinary
+
+* Take File from user using Multer ( Locally save krwayengy )
+* Usky bd local s file uthaakr server ( Cloudinary )pr bhejdengy
+* Hum directly bh server pr bhejsakty hai file
